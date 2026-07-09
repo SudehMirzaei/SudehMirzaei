@@ -1,4 +1,4 @@
-# Hi, I'm Sudeh 👋
+# Hi, I'm Sudeh 
 
 🧠 Deep Learning & Computer Vision Enthusiast  
 🔍 I love extracting patterns from data using neural networks, understanding model architectures, and fine-tuning parameters.
