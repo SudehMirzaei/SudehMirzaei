@@ -39,7 +39,7 @@
 ## 🌐 Languages
 
 - 🇬🇧 English – Fluent
-- 🇫🇷 French – Beginner (Duolingo Score: 35)
+- 🇫🇷 French – Beginner
 - 🇮🇹 Italian – Beginner
 
 ---
