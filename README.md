@@ -24,7 +24,7 @@
 | 🖼 [Pytorch-image-classification](https://github.com/SudehMirzaei/pytorch-image-classification) | Image classification pipeline built with PyTorch | PyTorch, Computer Vision |
 | 🎥 [Opencv-object-detection](https://github.com/SudehMirzaei/opencv-object-detection) | Real-time object detection using OpenCV DNN with pre-trained MobileNet-SSD on COCO dataset | OpenCV, Object Detection, Computer Vision |
 | 🔬 [Pytorch-model-playground](https://github.com/SudehMirzaei/pytorch-model-playground) | Experimenting with neural network architectures, layers, and hyperparameters | NN Architecture, PyTorch |
-| 🏢 [Office-automation-system](https://github.com/SudehMirzaei/office-automation-system) | Automation tool for office workflows | Automation, Python |
+| 🏢 [Office-automation-system](https://github.com/SudehMirzaei/office-automation-system) | Full-stack office automation system with digital signatures, document templates, and Persian calendar | React, TypeScript, Node.js, PostgreSQL |
 
 ---
 
