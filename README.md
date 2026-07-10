@@ -21,7 +21,8 @@
 | 🧬 [Brca-multiomics-survival-prediction](https://github.com/SudehMirzaei/Brca-multiomics-survival-prediction) | Multi-omics integration for breast cancer survival prediction using neural networks | Deep Learning, Multi-omics |
 | 👗 [Fashion-mnist-model-comparison](https://github.com/SudehMirzaei/fashion-mnist-model-comparison) | Comparing different neural network architectures on Fashion-MNIST | Model Comparison, PyTorch |
 | 📈 [Eurusd-trading-classification](https://github.com/SudehMirzaei/Eurusd-trading-classification) | Binary classification on EUR/USD trading data to extract predictive patterns | Time Series, Classification |
-| 🖼️ [Pytorch-image-classification](https://github.com/SudehMirzaei/pytorch-image-classification) | Image classification pipeline built with PyTorch | PyTorch, Computer Vision |
+| 🖼 [Pytorch-image-classification](https://github.com/SudehMirzaei/pytorch-image-classification) | Image classification pipeline built with PyTorch | PyTorch, Computer Vision |
+| 🎥 [Opencv-object-detection](https://github.com/SudehMirzaei/opencv-object-detection) | Real-time object detection using OpenCV DNN with pre-trained MobileNet-SSD on COCO dataset | OpenCV, Object Detection, Computer Vision |
 | 🔬 [Pytorch-model-playground](https://github.com/SudehMirzaei/pytorch-model-playground) | Experimenting with neural network architectures, layers, and hyperparameters | NN Architecture, PyTorch |
 | 🏢 [Office-automation-system](https://github.com/SudehMirzaei/office-automation-system) | Automation tool for office workflows | Automation, Python |
 
