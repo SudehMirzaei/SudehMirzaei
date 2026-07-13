@@ -15,8 +15,9 @@
 ---
 
 📂 Featured Projects
+
 Project | Description | Skills
-------- | ----------- | ------
+--- | --- | ---
 🧬 Brca-multiomics-survival-prediction | Multi-omics integration for breast cancer survival prediction using neural networks | Deep Learning, Multi-omics
 👗 Fashion-mnist-model-comparison | Comparing different neural network architectures on Fashion-MNIST | Model Comparison, PyTorch
 🧠 Anomaly-reimagining-medical-demo | Brain tumor anomaly detection in MRI scans using CNN autoencoder with unsupervised learning | Anomaly Detection, CNN, Autoencoder, Medical Imaging, TensorFlow
@@ -24,6 +25,7 @@ Project | Description | Skills
 🖼 Pytorch-image-classification | Image classification pipeline built with PyTorch | PyTorch, Computer Vision
 🎥 Opencv-object-detection | Real-time object detection using OpenCV DNN with pre-trained MobileNet-SSD on COCO dataset | OpenCV, Object Detection, Computer Vision
 🔬 Pytorch-model-playground | Experimenting with neural network architectures, layers, and hyperparameters | NN Architecture, PyTorch
+🎬 Imdb-sentiment-analysis | Sentiment analysis on 50K IMDb movie reviews using Bidirectional LSTM with TensorFlow/Keras | NLP, BiLSTM, TensorFlow, Text Classification
 🏢 Office-automation-system | Full-stack office automation system with digital signatures, document templates, and Persian calendar | React, TypeScript, Node.js, PostgreSQL
 ---
 
