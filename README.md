@@ -1,52 +1,111 @@
-# Hi, I'm Sudeh 
+# Hi, I'm Sudeh
 
-🧠 Deep Learning & Computer Vision Enthusiast  
-🔍 I love extracting patterns from data using neural networks, understanding model architectures, and fine-tuning parameters.
+## 🤖 Machine Learning & AI Enthusiast
 
----
+I enjoy building intelligent systems that learn from data, with interests spanning **Deep Learning, Computer Vision, Medical AI, Explainable AI, and Real-Time Data Engineering**.
 
-## 🛠️ What I Work With
-
-- Computer Vision: YOLO (object detection), OpenCV, image classification
-- Deep Learning: PyTorch, model comparison, architecture experimentation
-- Data Analysis: Multi-omics data, financial time series, image datasets
-- Languages: Python, SQL, and a touch of automation
+I'm passionate about understanding how machine learning models work—not just using them. I enjoy exploring neural network architectures, analyzing datasets, designing experiments, and building practical AI applications.
 
 ---
 
-| Project | Description | Skills |
-|---------|-------------|--------|
-| 🧬 **[Brca-multiomics-survival-prediction](https://github.com/SudehMirzaei/Brca-multiomics-survival-prediction)** | Multi-omics integration for breast cancer survival prediction using neural networks | Deep Learning, Multi-omics |
-| 👗 **[Fashion-mnist-model-comparison](https://github.com/SudehMirzaei/Fashion-mnist-model-comparison)** | Comparing different neural network architectures on Fashion-MNIST | Model Comparison, PyTorch |
-| 🧠 **[Anomaly-reimagining-medical-demo](https://github.com/SudehMirzaei/Anomaly-reimagining-medical-demo)** | Brain tumor anomaly detection in MRI scans using CNN autoencoder with unsupervised learning | Anomaly Detection, CNN, Autoencoder, Medical Imaging, TensorFlow |
-| 📈 **[Eurusd-trading-classification](https://github.com/SudehMirzaei/Eurusd-trading-classification)** | Binary classification on EUR/USD trading data to extract predictive patterns | Time Series, Classification |
-| 🖼 **[Pytorch-image-classification](https://github.com/SudehMirzaei/Pytorch-image-classification)** | Image classification pipeline built with PyTorch | PyTorch, Computer Vision |
-| 🎥 **[Opencv-object-detection](https://github.com/SudehMirzaei/Opencv-object-detection)** | Real-time object detection using OpenCV DNN with pre-trained MobileNet-SSD on COCO dataset | OpenCV, Object Detection, Computer Vision |
-| 🎯 **[Yolo-object-detection](https://github.com/SudehMirzaei/yolo-object-detection)** | Real-time object detection using YOLO for detecting and localizing objects in images and video streams | YOLO, Object Detection, Computer Vision, Deep Learning |
-| 🔬 **[Pytorch-model-playground](https://github.com/SudehMirzaei/Pytorch-model-playground)** | Experimenting with neural network architectures, layers, and hyperparameters | NN Architecture, PyTorch |
-| 🎬 **[Imdb-sentiment-analysis](https://github.com/SudehMirzaei/Imdb-sentiment-analysis)** | Sentiment analysis on 50K IMDb movie reviews using Bidirectional LSTM with TensorFlow/Keras | NLP, BiLSTM, TensorFlow, Text Classification |
-| 🏢 **[Office-automation-system](https://github.com/SudehMirzaei/Office-automation-system)** | Full-stack office automation system with digital signatures, document templates, and Persian calendar | React, TypeScript, Node.js, PostgreSQL |
-| 👤 **[AR-Face-Recognition](https://github.com/SudehMirzaei/AR-Face-Recognition)** | Augmented reality face detection and matching — plays a video overlay when a face match is confirmed | OpenCV, ORB, Augmented Reality, Computer Vision |
----
+## 🔬 Research Interests
 
-## 🚀 Currently Exploring
-
-- Computer Vision: Object detection with YOLO, image processing with OpenCV
-- NN Architectures: How different architectures learn patterns — CNNs, Transformers, and beyond
-- Languages: Improving my French 🇫🇷 (A1) and starting Italian 🇮🇹 (A1)
+- 🧠 Deep Learning
+- 👁️ Computer Vision
+- 🏥 Medical Image Analysis
+- 🧬 Biomedical AI
+- 🔍 Explainable & Trustworthy AI
+- 📊 Machine Learning
+- ⚡ Real-Time Data Engineering
+- 📈 Time-Series Analysis
+- 🤖 Neural Network Architectures
 
 ---
 
-## 🌐 Languages
+# 🛠 Tech Stack
 
-- 🇬🇧 English – Fluent
-- 🇫🇷 French – Beginner
-- 🇮🇹 Italian – Beginner
+### Languages
+- Python
+- SQL
+- TypeScript
+- JavaScript
+
+### AI & Machine Learning
+- PyTorch
+- TensorFlow / Keras
+- OpenCV
+- YOLO
+- Scikit-learn
+- NumPy
+- Pandas
+- Matplotlib
+
+### Data Engineering
+- Apache Kafka
+- Apache NiFi
+- Stream Processing
+- Data Pipelines
+
+### Development
+- React
+- Node.js
+- Express
+- Prisma ORM
+- PostgreSQL
+- Git & GitHub
 
 ---
 
-> *"The deeper I look into neural networks, the more patterns I find — both in data and in learning itself."*
+# 🚀 Featured Projects
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| 🧠 **EEG Trustworthy Decoding** | Explainable deep learning for EEG-based visual stimulus decoding using saliency maps, feature ablation, and trustworthiness metrics. | PyTorch, Explainable AI, EEG |
+| ⚡ **Real-Time Data Pipeline** | Educational repository covering Apache Kafka, Apache NiFi, stream processing, and real-time data engineering concepts. | Kafka, NiFi, Data Engineering |
+| 🏥 **Brain Tumor Anatomy Compendium** | Educational repository explaining glioma, meningioma, and pituitary tumors with MRI characteristics and anatomical insights for AI applications. | Medical Imaging, MRI |
+| 🎯 **YOLO Object Detection** | Real-time object detection in images and videos using YOLO. | YOLO, OpenCV, Computer Vision |
+| 🧬 **Breast Cancer Survival Prediction** *(Private)* | Predicting breast cancer survival using TCGA multi-omics data and neural networks. | Deep Learning, Biomedical AI |
+| 🩺 **Medical Anomaly Detection** *(Private)* | CNN Autoencoder for anomaly detection in brain MRI inspired by the "Reimagining Anomalies" framework. | TensorFlow, Autoencoder |
+| 🎬 **IMDb Sentiment Analysis** | Sentiment classification using Bidirectional LSTM. | TensorFlow, NLP |
+| 📈 **EUR/USD Trading Signal Classification** *(Private)* | Predicting buy/sell trading signals using neural networks on financial time-series data. | LSTM, CNN, Time Series |
+| 🖼 **PyTorch Image Classification** | Image classification using TinyVGG and data augmentation. | PyTorch |
+| 👗 **Fashion-MNIST Model Comparison** | Comparison of linear, non-linear, and CNN architectures. | PyTorch |
+| 👤 **AR Face Recognition** | Augmented reality face recognition with dynamic video overlay. | OpenCV, ORB |
+| 🎥 **OpenCV Object Detection** | Object detection using MobileNet-SSD and OpenCV DNN. | OpenCV |
+| 🧪 **PyTorch Model Playground** | Exploring neural network architectures, optimization, and experimentation. | PyTorch |
+| 🏢 **Office Automation System** *(Private)* | Full-stack office automation platform with digital signatures and workflow management. | React, Node.js, PostgreSQL |
 
 ---
 
-📫 Feel free to explore my repositories and reach out!
+# 🌱 Currently Learning
+
+- Transformer Architectures
+- Large Language Models (LLMs)
+- Explainable & Trustworthy AI
+- Medical Foundation Models
+- Apache Spark
+- MLOps
+- Distributed Machine Learning
+
+---
+
+# 🌍 Languages
+
+- 🇬🇧 English — Fluent
+- 🇫🇷 French — Beginner (A1)
+- 🇮🇹 Italian — Beginner (A1)
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in discussing:
+
+- Artificial Intelligence
+- Machine Learning Research
+- Medical AI
+- Computer Vision
+- Data Engineering
+- Open Source Projects
+
+Feel free to explore my repositories or connect with me through GitHub!
