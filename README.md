@@ -26,7 +26,6 @@ I'm passionate about understanding how machine learning models work—not just u
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| 🧠 EEG Trustworthy Decoding | Explainable deep learning for EEG-based visual stimulus decoding using saliency maps, feature ablation, and trustworthiness metrics. | PyTorch, Explainable AI, EEG |
 | 🧠 Brain Tumor Classification | Comparative study of CNN, VGG16, ResNet50, and DenseNet121 for multi-class brain tumor classification from MRI images. Includes transfer learning, data augmentation, confusion matrix analysis, and performance comparison using Accuracy and F1-score. | TensorFlow, Keras, Deep Learning, Medical Imaging, Transfer Learning |
 | ⚡ Real-Time Data Pipeline | Educational repository covering Apache Kafka, Apache NiFi, stream processing, and real-time data engineering concepts. | Kafka, NiFi, Data Engineering |
 | 🏥 Brain Tumor Anatomy Compendium | Educational repository explaining glioma, meningioma, and pituitary tumors with MRI characteristics and anatomical insights for AI applications. | Medical Imaging, MRI |
